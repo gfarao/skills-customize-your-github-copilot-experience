@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "computer-architecture",
+      "title": "Computer Architecture",
+      "description": "Binary/hex conversion and simulating a simple register-based CPU in Python.",
+      "path": "assignments/computer-architecture",
+      "dueDate": "2026-04-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
